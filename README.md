@@ -14,4 +14,11 @@ Script Revision: 1.0
 * smtplib
 
 
+# Features
+* you can receive emails with the information of the backup.
+* Add your database and email credentials.
 
+# Crontab
+* You can run the script in crontab to run the backup daily.
+
+![alt text](https://i.gyazo.com/101ead5337dc55a65b09ea7554921615.png)
