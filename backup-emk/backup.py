@@ -32,7 +32,7 @@ from email.mime.text import MIMEText
 
 server = 'mail.example.es'
 user = 'backup@example.es'
-password = 'Australia2019'
+password = 'passwordemail'
 
 recipients = 'emilianoalcaraz@hotmail.com'
 sender = 'backup@example.es'
