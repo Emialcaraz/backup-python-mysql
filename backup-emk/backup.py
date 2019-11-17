@@ -34,7 +34,7 @@ server = 'mail.example.es'
 user = 'backup@example.es'
 password = 'passwordemail'
 
-recipients = 'emilianoalcaraz@hotmail.com'
+recipients = 'youremail@hotmail.com'
 sender = 'backup@example.es'
 
 # Create message container - the correct MIME type is multipart/alternative.
