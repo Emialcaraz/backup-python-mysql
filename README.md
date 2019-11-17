@@ -13,12 +13,13 @@ Script Revision: 1.0
 * humanize 
 * smtplib
 
-
 # Features
 * you can receive emails with the information of the backup.
 * Add your database and email credentials.
+* The files are compressed in .gz in order to reduce the size. 
+* We delete old files every five days and keep them updated
 
 # Crontab
-* You can run the script in crontab to run the backup daily.
+* You need to run the script in crontab to make the backup daily.
 
 ![alt text](https://i.gyazo.com/101ead5337dc55a65b09ea7554921615.png)
