@@ -1,4 +1,4 @@
-## This python script is used for mysql database backup
+## This python script is used for MYSQL DB backup
 
 using mysqldump and tar utility.
 Written by : Emiliano Alcaraz
@@ -12,4 +12,6 @@ Script Revision: 1.0
 * pipes
 * humanize 
 * smtplib
+
+
 
